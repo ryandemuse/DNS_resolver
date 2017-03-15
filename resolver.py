@@ -31,8 +31,7 @@ def stringToNetwork(string):
 
 """
 Function to convert a network style string to a human
-readable style string. Credit to Dr. Sat for giving 
-us this very useful function.
+readable style string.
 @param response from network query
 @param starting position of string to convert
 """
